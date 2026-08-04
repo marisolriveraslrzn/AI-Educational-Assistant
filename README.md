@@ -29,15 +29,6 @@ AI-Educational-Assistant/
 ├── docker/
 ├── screenshots/
 
-## Roadmap
-
-- [ ] Sprint 1 - Configuración
-- [ ] Sprint 2 - Login
-- [ ] Sprint 3 - Chat IA
-- [ ] Sprint 4 - Dashboard
-- [ ] Sprint 5 - Gestión de cursos
-- [ ] Sprint 6 - Despliegue
-
 ## Licencia
 
 MIT
