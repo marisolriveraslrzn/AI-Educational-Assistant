@@ -1,0 +1,3 @@
+# Backend
+
+Aplicación Flask.
